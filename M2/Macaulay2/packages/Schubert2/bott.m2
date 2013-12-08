@@ -6,7 +6,11 @@
 -- University of Kaiserslautern
 -- Germany
 
+
+
 -- The following are the Macaulay2 routines to compute Gromov-Witten invariants.
+-- These invariants are related to the numbers of rational curves on a general
+-- Calabi-Yau threfold in some projective space.
 
 rationalCurve = method()
 --return a Gromov-Witten invariant corresponding the number of rational
